@@ -2485,6 +2485,7 @@ ul.timeline > li > .timeline-badge {
 }
 }
  @media screen and (max-width: 480px) {
+	
 .pt-page-1 .main-section {
 	overflow-y: scroll;
 }
